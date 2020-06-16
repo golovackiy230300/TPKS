@@ -1,0 +1,64 @@
+PCAD Importer Log
+Project : Lab_1.LibPkg
+
+Section : F:\Универ\пузырев\TPKS\Lab_1\Lab_1.lib
+    Section : PCB Library - Lab_1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 132
+            Warning - 1 : Skipping Token defaultPinDes On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 134
+            Warning - 1 : Skipping Token defaultPinDes On Line 135
+            Warning - 1 : Skipping Token defaultPinDes On Line 136
+            Warning - 1 : Skipping Token defaultPinDes On Line 137
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 139
+            Warning - 1 : Skipping Token defaultPinDes On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 141
+            Warning - 1 : Skipping Token defaultPinDes On Line 142
+            Warning - 1 : Skipping Token defaultPinDes On Line 143
+            Warning - 1 : Skipping Token CAPASITOR On Line 157
+            Warning - 1 : Skipping Token CONTACT On Line 180
+            Warning - 1 : Skipping Token DIODE On Line 204
+            Warning - 1 : Skipping Token К155АГ1 On Line 231
+            Warning - 1 : Skipping Token attachedSymbol On Line 348
+            Warning - 1 : Skipping Token attachedSymbol On Line 361
+        EndSection
+
+        Section : Import Messages
+            Warning : Component CAPASITOR does not have PCB footprint definition and will be skipped
+            Warning : Component CONTACT does not have PCB footprint definition and will be skipped
+        EndSection
+    EndSection
+
+    Section : SCH Library - Lab_1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 76
+            Warning - 1 : Skipping Token multiLayer On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token multiLayer On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token multiLayer On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 165
+            Warning - 1 : Skipping Token defaultPinDes On Line 173
+            Warning - 1 : Skipping Token defaultPinDes On Line 188
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 212
+            Warning - 1 : Skipping Token defaultPinDes On Line 220
+            Warning - 1 : Skipping Token defaultPinDes On Line 239
+            Warning - 1 : Skipping Token defaultPinDes On Line 248
+            Warning - 1 : Skipping Token defaultPinDes On Line 257
+            Warning - 1 : Skipping Token defaultPinDes On Line 266
+            Warning - 1 : Skipping Token defaultPinDes On Line 275
+            Warning - 1 : Skipping Token defaultPinDes On Line 284
+            Warning - 1 : Skipping Token defaultPinDes On Line 293
+            Warning - 1 : Skipping Token defaultPinDes On Line 301
+        EndSection
+
+        Section : Generating SCH Library - Lab_1.SchLib
+        EndSection
+    EndSection
+EndSection

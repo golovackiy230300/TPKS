@@ -1,0 +1,81 @@
+PCAD Importer Log
+Project : Lab_2.LibPkg
+
+Section : F:\Универ\пузырев\TPKS\Lab_2\Lab_2.lib
+    Section : PCB Library - Lab_2.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 124
+            Warning - 1 : Skipping Token defaultPinDes On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 146
+            Warning - 1 : Skipping Token defaultPinDes On Line 147
+            Warning - 1 : Skipping Token defaultPinDes On Line 148
+            Warning - 1 : Skipping Token defaultPinDes On Line 149
+            Warning - 1 : Skipping Token defaultPinDes On Line 150
+            Warning - 1 : Skipping Token defaultPinDes On Line 151
+            Warning - 1 : Skipping Token defaultPinDes On Line 152
+            Warning - 1 : Skipping Token defaultPinDes On Line 173
+            Warning - 1 : Skipping Token defaultPinDes On Line 174
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 195
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 197
+            Warning - 1 : Skipping Token defaultPinDes On Line 198
+            Warning - 1 : Skipping Token defaultPinDes On Line 199
+            Warning - 1 : Skipping Token defaultPinDes On Line 200
+            Warning - 1 : Skipping Token defaultPinDes On Line 201
+            Warning - 1 : Skipping Token defaultPinDes On Line 202
+            Warning - 1 : Skipping Token defaultPinDes On Line 203
+            Warning - 1 : Skipping Token defaultPinDes On Line 204
+            Warning - 1 : Skipping Token defaultPinDes On Line 205
+            Warning - 1 : Skipping Token CAPASITOR On Line 219
+            Warning - 1 : Skipping Token CONTACT On Line 242
+            Warning - 1 : Skipping Token DIODE On Line 266
+            Warning - 1 : Skipping Token К155АГ1 On Line 293
+            Warning - 1 : Skipping Token attachedSymbol On Line 396
+            Warning - 1 : Skipping Token attachedSymbol On Line 422
+            Warning - 1 : Skipping Token attachedSymbol On Line 449
+            Warning - 1 : Skipping Token attachedSymbol On Line 476
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Lab_2.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 64
+            Warning - 1 : Skipping Token viaStyleDef On Line 74
+            Warning - 1 : Skipping Token multiLayer On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 127
+            Warning - 1 : Skipping Token multiLayer On Line 144
+            Warning - 1 : Skipping Token layerContents On Line 154
+            Warning - 1 : Skipping Token multiLayer On Line 172
+            Warning - 1 : Skipping Token layerContents On Line 176
+            Warning - 1 : Skipping Token multiLayer On Line 193
+            Warning - 1 : Skipping Token layerContents On Line 207
+            Warning - 1 : Skipping Token defaultPinDes On Line 227
+            Warning - 1 : Skipping Token defaultPinDes On Line 235
+            Warning - 1 : Skipping Token defaultPinDes On Line 250
+            Warning - 1 : Skipping Token defaultPinDes On Line 258
+            Warning - 1 : Skipping Token defaultPinDes On Line 274
+            Warning - 1 : Skipping Token defaultPinDes On Line 282
+            Warning - 1 : Skipping Token defaultPinDes On Line 301
+            Warning - 1 : Skipping Token defaultPinDes On Line 310
+            Warning - 1 : Skipping Token defaultPinDes On Line 319
+            Warning - 1 : Skipping Token defaultPinDes On Line 328
+            Warning - 1 : Skipping Token defaultPinDes On Line 337
+            Warning - 1 : Skipping Token defaultPinDes On Line 346
+            Warning - 1 : Skipping Token defaultPinDes On Line 355
+            Warning - 1 : Skipping Token defaultPinDes On Line 363
+        EndSection
+
+        Section : Generating SCH Library - Lab_2.SchLib
+        EndSection
+    EndSection
+EndSection
